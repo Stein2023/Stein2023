@@ -3,14 +3,18 @@
 <!--
 **Stein2023/Stein2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hola, soy Martin Sten! ✌️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Estudiante en la Universidad ORT, cursando Licienciatura de Sistemas
+📝 Sobre mí
+
+📚 Explorando el mundo del código.
+
+🔧 Creando proyectos y resolviendo problemas.
+
+📊 Conectemos
+
+📝 GitHub
+
+💡 Siempre aprendiendo y buscando nuevos desafíos.
 -->
